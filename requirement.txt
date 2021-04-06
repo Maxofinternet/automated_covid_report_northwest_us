@@ -1,0 +1,10 @@
+geopandas
+pyshp
+shapely
+plotly-geo
+plotly
+nest_asyncio
+tweepy
+feedparser
+pandas
+pandas.core.indexing
